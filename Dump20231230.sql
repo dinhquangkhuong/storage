@@ -19,12 +19,6 @@
 -- Dumping data for table `_sqlx_migrations`
 --
 
-LOCK TABLES `_sqlx_migrations` WRITE;
-/*!40000 ALTER TABLE `_sqlx_migrations` DISABLE KEYS */;
-INSERT INTO `_sqlx_migrations` VALUES (1,'images table','2023-12-19 06:14:36',1,_binary ';\Ñd)+\ê?\à7\"€jş\å\'K»?)G†V@_“vö3Có28\àÄ•V•l¢Ğ©X6\çûz',2878600),(2,'user table','2023-11-06 09:23:34',1,_binary '‘t\à„S{5Š\0\ÇÙ¬\ÓBX:\éb#É‡P º,»m+Àï¾†]3\Âd…\nI1',28902600),(3,'author table','2023-11-06 09:23:34',1,_binary 'T9r|\ËX\Ùv~œ\ÆVd\â\Å2ş\àövS¼•%_&Dse² 0·ü\ë\Îı\Ï\íDN\î¼7ğ(',8888000),(4,'book table','2023-11-06 09:23:34',1,_binary '¢¦\å—HœP½nH\'\à6Àã›|~W¿?ğ\Õ=\Ôƒô\Òªr©r\É\È?Jğº(\Ù¶',20050500),(5,'cart table','2023-12-19 06:17:03',1,_binary '5ƒ\ÆÁ¦“¡w\n iqL…{”›\à¬\áÁ#oÁ(p¿Á”’]èŠ“?_:.óG‚‹]ò\Ñ',60318900),(6,'order table','2023-12-19 06:17:03',1,_binary '!^”£Sš?S:<º¼~G\rY^xl~N@vB„Áö\ån¡¸©\Zœo7´“kúšTòõ',88594500),(7,'orderDettail table','2023-12-19 06:17:03',1,_binary 'F\ÏŠZ§~€\É\å€Iœö¿–\è\Ã/P `\çÍ‰\Ã}\ÚPA«°¸q6¸|„\"\Èø',41427100),(8,'payment table','2023-12-19 06:17:03',1,_binary '{Ü€5\Ì|]{Q†!\ØK\áH}ö•›¶’Ÿm/±m\Ówò\Ú?Y@J\Ò²\Ğ\ç\Å\Ù\Şú\Ï]',44104600),(9,'genre table','2023-11-06 09:23:34',1,_binary '&\Ô\Âk·sŒ\åõû	\"\Ù\îı?5§WX¤».KY(\æKIr\áÕˆõpu½u',20023200),(10,'book genre tabl','2023-11-06 09:23:34',1,_binary '8»I©m\È\È\×\íCb´ôS`^(²%N\Z¨YôEBØš)zù6¢\ç~N»¨\ÍÔœ®°',75114200),(12,'rating tables','2023-11-06 09:23:34',1,_binary 'NK`.\àM\è\ê\î\İ_\ä§BÛœÚ¯*J¬öm\İûûj\ÜMˆ\è³\Ø<œ“ 8şc\å\ns¡´',13434600);
-/*!40000 ALTER TABLE `_sqlx_migrations` ENABLE KEYS */;
-UNLOCK TABLES;
-
 --
 -- Dumping data for table `author`
 --
